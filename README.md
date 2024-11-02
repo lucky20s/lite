@@ -19,7 +19,9 @@ Versi Dikit Biar Enteng
 Stunel4 > 445, 447 ,777
 
 Dropbear > 109, 143
+
 Vmes Port Nontls > 80, 8880 , Tls 443, 8443
+
 Ssh Wsoket Nontls > 80, 8880 , Tls 443, 8443
 
 ### Info Admin
