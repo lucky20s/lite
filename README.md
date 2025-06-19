@@ -33,3 +33,6 @@ Ssh Wsoket Nontls > 80, 8880 , Tls 443, 8443
 ### Donasi Donk Seiklasnya 😊
 
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/scc.png)
+
+### Pw Cek Youtube
+https://youtu.be/BuGAMLup55s
