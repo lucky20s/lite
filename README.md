@@ -36,3 +36,8 @@ Ssh Wsoket Nontls > 80, 8880 , Tls 443, 8443
 
 ### Pw Cek Youtube
 https://youtu.be/BuGAMLup55s
+
+### Pointing domain ke wilcard
+
+https://youtu.be/WCFd59YzcHY
+
